@@ -1,9 +1,6 @@
 <!-- README.md START -->
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adityamern/adityamern/main/assets/banner.png" alt="Aditya Mishra Banner" width="100%" />
-</p>
+
 
 <h3 align="center">✨ Frontend Developer · JavaScript Specialist · React-Focused</h3>
 
