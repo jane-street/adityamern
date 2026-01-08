@@ -31,7 +31,7 @@
 
 💡 I craft scalable, interactive UIs with precision and visual clarity.  
 🎨 Focused on performant, responsive, and consistent UIs.  
-📩 Reach me at: [adityamernstack@gmail.com](https://mail.google.com/mail/?view=cm&to=adityamernstack@gmail.com)
+📩 Reach me at: [adityamernstack@gmail.com](https://mail.google.com/mail/?view=cm&to=hi@mishraaditya.com.com)
 
 
 
@@ -84,7 +84,7 @@
     <img src="https://github.com/user-attachments/assets/74e48062-5a6f-418d-9674-91f54bb028dc" alt="LinkedIn" height="45" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-   <a href="https://mail.google.com/mail/?view=cm&to=adityamernstack@gmail.com" target="_blank">
+   <a href="https://mail.google.com/mail/?view=cm&to=hi@mishraaditya.com" target="_blank">
     <img src="https://github.com/user-attachments/assets/5967fce8-6390-40b2-b13a-c2363c9730ea" alt="Gmail" height="45" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
